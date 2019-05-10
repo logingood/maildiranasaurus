@@ -25,7 +25,7 @@ import (
 	"github.com/flashmob/fastcgi-processor"
 	"github.com/flashmob/go-guerrilla"
 	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/maildir-processor"
+	"github.com/logingood/maildir-processor"
 	"github.com/spf13/cobra"
 	"os"
 	"os/exec"

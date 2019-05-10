@@ -11,7 +11,7 @@ import (
 	"github.com/flashmob/go-guerrilla/log"
 	test "github.com/flashmob/go-guerrilla/tests"
 	"github.com/flashmob/go-guerrilla/tests/testcert"
-	"github.com/flashmob/maildir-processor"
+	"github.com/logingood/maildir-processor"
 	"github.com/spf13/cobra"
 	"io"
 	"io/ioutil"
